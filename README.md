@@ -85,25 +85,5 @@ npm run dev
 
 ---
 
-## Screenshot
-*(Optional: Insert a screenshot showing your chatbot embedded in a website.)*
-
----
-
-## Future Enhancements
-- User authentication and custom conversation sessions
-- Admin panel for monitoring chat history
-- Customizable bot personality and responses
-- Voice input and output support
-- Integration with CRM or support ticket systems
-
----
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## Credits
-Built with ❤️ by [Tech-Sanji](https://github.com/Tech-Sanji), powered by OpenAI.
-
+Built with ❤️ by [Tech-Sanji](https://github.com/Tech-Sanji)
